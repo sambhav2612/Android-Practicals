@@ -1,0 +1,9 @@
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$integer$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$styleable$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$string$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$mipmap$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$id$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$style$override.class
+CHANGED,E:\pd\MyApplication3\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\tanujrohilla\myapplication\R$layout$override.class

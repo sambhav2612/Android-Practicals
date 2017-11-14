@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="s">Select</string>
+    <string-array name="my_array">
+        <item name="India">India</item>
+        <item name="Pakistan">Pakistan</item>
+        <item name="England">England</item>
+        <item name="Denmark">Denmark</item>
+
+    </string-array>
+
+</resources>

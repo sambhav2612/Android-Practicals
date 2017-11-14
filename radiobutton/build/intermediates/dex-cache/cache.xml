@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3324d64f9bbef3519d81b2a0235011d6f4747a6c">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\instant-run_914ba9079f4b047e1218faa62b4f654d67c9a2f2.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_629e9cef162485412e2bfff1807916b4d81027b4.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_3613f42cb59d8ef349ee8bf68a0e1c442ff6b97a.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_8902316bca6cde76cdb7d13e3f364c9252c8d465.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_173d0ac39bad032984a20887dd425d0ac66c6d55.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_73e2b6e33a22057f66ebe18062991810c36c9f0d.jar" />
+    </item>
+    <item
+        jar="E:\pd\radiobutton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85332d04c1a22e2f0239a99bc8f8496f07fdbbe0">
+        <dex dex="E:\pd\radiobutton\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b99d81e5c69ae97bae9ba7e8a5d7ead6ca1ce539.jar" />
+    </item>
+
+</items>
