@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mega/AndroidStudioProjects/Program3/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mega/.android/build-cache/ab6c8df32b99b84cadabc0569ec4898ef54acd16/output/res/anim/abc_fade_in.xml"
+    }
+]

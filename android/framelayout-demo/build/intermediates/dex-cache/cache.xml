@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_7710979e8052ef3b4177f72e815d300c34427579.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="008d656b213005bf3f092571e6b57344b7b92aa8">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\instant-run_69dae71cb540a150ec6b466aa229b0f7a910c980.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85bf38170661b4cbe6adc719b0c8e2cf80a5e8d2">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b4c75eaf320c48abb2ce2e858a77ee4d1b10e959.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_dda5485fc073c64098e9fce10e51e238abcede3d.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_b08db5f7dc3e3ffbe9fd14a1335583401e0f2f5b.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_7a145f5b4cc6be8dfb95076767bc6b6a227aec3d.jar" />
+    </item>
+    <item
+        jar="E:\pd\framelayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\pd\framelayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_bcb30e9f1b126606e4d7fd103edecf32872f87e7.jar" />
+    </item>
+
+</items>

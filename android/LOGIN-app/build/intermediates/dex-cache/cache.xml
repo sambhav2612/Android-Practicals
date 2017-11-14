@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_718b7544719719aeb49a88bf6695bd45163d1432.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_4dbcd1f8668d3bdaa10649c27a4d86df17d8d671.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_7ebec67e3acd92ee28ddb60200acf59db009b21f.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b06d35dc3639e689e7dad0d642adcc376ec21003">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\instant-run_2666ecbc2564b86de43e2ed127db32abaa0c49c2.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_915506eb06eef1e4f4ba87a6fa46c6d6379c5d43.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf3f7ea9e19cb3d4e0250993b376f5435c386780">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5705fdecb37bd64dc60ba146b0f7932351616a3f.jar" />
+    </item>
+    <item
+        jar="E:\pd\LOGIN\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\pd\LOGIN\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_48cec870571692f7133ceeb75be8e95c8ae025e4.jar" />
+    </item>
+
+</items>
