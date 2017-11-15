@@ -3,6 +3,7 @@
 
 A directory to my work in Sem3 in my undergrad. 
 
+```
 .
 ├── .github
 │   ├── CONTRUBUTING.md       
@@ -55,4 +56,4 @@ A directory to my work in Sem3 in my undergrad.
 |   └── pthread.c               # Implementing PThread by UNIX standards in C
 ├── LICENSE
 └── README.md
-                
+```                
