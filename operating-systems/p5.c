@@ -18,7 +18,7 @@ void main(int argc, char *argv[])
   }
   if(pid==0)
   {
-    execv("./p3");
+    execv("./p2");
   }
 }
 
