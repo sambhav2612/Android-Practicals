@@ -1,12 +1,12 @@
-# Sem3-Pracs
+# operating-systems
 ### Overview
 
-A directory to my work in Sem3 of my undergrad. 
+A directory to operating-systems in Sem3 of my undergrad. 
 
 ```
 .   
 ..    
-├── operating systens     
+├── operating-systems     
 │   ├── p1a.c                   # Implements fork() system call in C    
 |   └── p1b.c                   # Another implementation fork() system call in C     
 |   └── p1c.c                   # Implements wait() system call for p1b.c program in C    

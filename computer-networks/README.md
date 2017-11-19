@@ -1,12 +1,12 @@
-# Sem3-Pracs
+# computer-networks
 ### Overview
 
-A directory to my work in Sem3 of my undergrad. 
+A directory to computer-networks in Sem3 of my undergrad. 
 
 ```
 .   
 ..    
-├── computer networks     
+├── computer-networks     
 │   ├── crc.cpp                 # Cyclic Redundancy Checker Program in C++    
 |   └── hamm.cpp                # Hamming FRC code Program in C++    
 |   └── snw.cpp                 # Stop and Wait ARQ simulation program in C++    

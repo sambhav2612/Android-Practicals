@@ -1,7 +1,7 @@
-# Sem3-Pracs
+# android-programming
 ### Overview
 
-A directory to my work in Sem3 of my undergrad. 
+A directory to android-programming in Sem3 of my undergrad. 
 
 ```
 .   

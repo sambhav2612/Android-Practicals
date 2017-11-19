@@ -10,7 +10,7 @@ A directory to my work in Sem3 of my undergrad.
 │   ├── CONTRUBUTING.md            
 │   └── ISSUE_TEMPLATE.md        
 │   └── PULL_REQUEST_TEMPLATE.md          
-├── android     
+├── android-programming     
 |   ├── Background-Color-Changer     
 |   └── button-demo    
 │   └── Chooser-app    
@@ -27,12 +27,12 @@ A directory to my work in Sem3 of my undergrad.
 |   └── tablelayout    
 |   └── Toast-and-alertdialog    
 ├── CONTRIBUTORS.md    
-├── computer networks     
+├── computer-networks     
 │   ├── crc.cpp                 # Cyclic Redundancy Checker Program in C++    
 |   └── hamm.cpp                # Hamming FRC code Program in C++    
 |   └── snw.cpp                 # Stop and Wait ARQ simulation program in C++    
 |   └── gobackn.cpp             # Go back N ARQ simulation program in C++     
-├── data structures    
+├── data-structures    
 │   ├── arrayAndPointers.cpp    # Array Pointers tutorial in C++    
 |   └── circularQueue.cpp       # Circular Queue implementation in C++    
 |   └── circularQueue2.cpp      # Another Circular Queue implementation in C++     
@@ -40,7 +40,7 @@ A directory to my work in Sem3 of my undergrad.
 |   └── ds2.cpp                 # Doubly Queue ADT implemented in C++    
 |   └── sort1.cpp               # Bubble Sort implementation in C++    
 |   └── testLL.cpp              # Program to add at particular position in a doubly queue implemented in C++    
-├── operating systens     
+├── operating-systems     
 │   ├── p1a.c                   # Implements fork() system call in C    
 |   └── p1b.c                   # Another implementation fork() system call in C     
 |   └── p1c.c                   # Implements wait() system call for p1b.c program in C    
