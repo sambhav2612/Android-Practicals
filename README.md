@@ -1,7 +1,7 @@
-# Sem3-Pracs
+# college
 ### Overview
 
-A directory to my work in Sem3 of my undergrad. 
+A directory to my college work. 
 
 ```
 .   
