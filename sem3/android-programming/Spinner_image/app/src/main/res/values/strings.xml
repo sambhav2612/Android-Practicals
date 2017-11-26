@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner_image</string>
+    <string-array name="myarr">
+        <item name="Image1">Image1</item>
+        <item name="Image2">Image2</item>
+        <item name="Image3">Image3</item>
+    </string-array>
+</resources>

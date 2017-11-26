@@ -1,0 +1,27 @@
+package demoPackage.pkg1;
+
+	public class myClass {
+
+		private int maze = 5;	
+
+		public myClass (int maze) {
+
+			this.maze = maze;
+			System.out.println(this.maze);
+
+		}
+
+	}
+
+package demoPackage.pkg2;
+import demoPackage.pkg1.*;
+
+	public class myClasss {
+
+		public static void main (String[] args) throws Exception {
+
+			myClass obj = new myClass (10);
+	
+		}
+
+	}

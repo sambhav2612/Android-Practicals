@@ -1,0 +1,23 @@
+//display the ladders
+
+import java.util.*;
+
+class ladder
+{
+	public static void main (String[] args)
+	{
+	  int size;
+	  Scanner value = new Scanner(System.in);
+	  System.out.print ("Enter size: ");
+	  size = value.nextInt();
+	  // ladder with consecutive sequence
+	  for (int i = 0; i < size; i += 2)
+	  {
+	    for (int j = 0; j <= i; ++j)
+	    {
+	      System.out.print ("* ");
+	    }
+	    System.out.println (" ");
+	  }
+	}
+}
