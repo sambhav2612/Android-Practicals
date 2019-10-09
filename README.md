@@ -2,22 +2,29 @@
 ### Overview
 
 A directory to my college work. 
-
 ```
-.   
-..   
-├── .github    
-│   ├── CONTRUBUTING.md   
-│   └── ISSUE_TEMPLATE.md   
-│   └── PULL_REQUEST_TEMPLATE.md    
-├── .gitignore  
+.
 ├── sem2-java
-│   └── ..    
-├── sem3    
-│   └── ..    
-├── sem4    
-│   ├── PHP   
-│   └── ..    
-├── LICENSE   
-└── README.md    
+│   └── applets-sem2
+├── sem3
+│   ├── android-programming
+│   │   ├── Background-Color-Changer
+│   │   ├── button-demo
+│   │   ├── Chooser-app
+│   │   ├── finish-lifecycle
+│   │   ├── lifecycle
+│   │   ├── LOGIN-app
+│   │   ├── radiobutton-demo
+│   │   ├── Scrollview-app
+│   │   ├── Spinner_image
+│   │   └── Toast-and-alertdialog
+│   ├── computer-networks
+│   ├── data-structures
+│   │   └── pr
+│   └── operating-systems
+├── sem4
+│   ├── PHP
+│   └── SQL
+└── sem-6
+
 ```
